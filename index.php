@@ -13,7 +13,7 @@
             DisplaySignup();
             break;
         case 'dashboard' :
-            DisplayDashboard($username); 
+            DisplayDashboard(); 
             break;
         case 'home':    
         default:
